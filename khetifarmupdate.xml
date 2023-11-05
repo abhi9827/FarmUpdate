@@ -4,10 +4,10 @@
     <channel>
         <title>KHETI</title>
         <item>
-            <title>Version 4.3.0</title>
+            <title>Version 4.4.0</title>
             <description>Updated by DV Excellus</description>
             <pubDate>Sun, 29 Jun 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.np.prb.bhakaari" sparkle:version="4.3.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.np.prb.bhakaari" sparkle:version="4.4.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
